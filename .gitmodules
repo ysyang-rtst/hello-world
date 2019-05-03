@@ -1,0 +1,3 @@
+[submodule "test-core"]
+	path = test-core
+	url = https://github.com/ysyang-rtst/test-core.git
